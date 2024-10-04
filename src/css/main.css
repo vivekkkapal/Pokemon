@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+DE+Grund:wght@100..400&display=swap');
+
+
+* {
+  font-family: "Playwrite DE Grund", cursive;
+}
+
+body{
+    /* shecodes gradients */
+    background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
